@@ -1,0 +1,23 @@
+body {
+    background-color: lightyellow;
+    font-family: cursive
+}
+
+.container {
+    text-align: center;
+    font-style: italic;
+    font-size: 18px;
+}
+
+img {
+    height: auto;
+    width: 300px;
+}
+
+.ingredients {
+    display: inline-block;
+}
+
+.instructions {
+    display: inline-block;
+}
